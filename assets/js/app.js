@@ -1018,7 +1018,7 @@ function applyToTag (styleElement, obj) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_axios___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_axios__);
 
 
-__WEBPACK_IMPORTED_MODULE_0_axios___default.a.defaults.baseURL = 'https://vu-schedule-api.azurewebsites.net/api/';
+__WEBPACK_IMPORTED_MODULE_0_axios___default.a.defaults.baseURL = 'https://vu-schedule-web-api.azurewebsites.net/api/';
 
 var appService = {
   getSubjects: function getSubjects(id) {
